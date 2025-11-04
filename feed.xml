@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Your Site Title</title>
+    <link>https://yourusername.github.io</link>
+    <description>A description of your RSS feed</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Nov 2025 12:00:00 GMT</lastBuildDate>
+    
+    <!-- Example Item -->
+    <item>
+      <title>First Post Title</title>
+      <link>https://yourusername.github.io/post1</link>
+      <description>This is the description of your first post.</description>
+      <pubDate>Tue, 04 Nov 2025 12:00:00 GMT</pubDate>
+      <guid>https://yourusername.github.io/post1</guid>
+    </item>
+
+    <!-- Add more <item> blocks for each post -->
+  </channel>
+</rss>
